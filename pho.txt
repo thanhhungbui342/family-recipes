@@ -1,2 +1,6 @@
 Phở bò: Nước dùng ninh từ xương...
+<<<<<<< HEAD
 Nấu nước dùng 3 tiếng
+=======
+Thêm gia vị: quế, hồi
+>>>>>>> 1be72f0c4b5f0bfbb2d0a25d3bc0f581f9f4b94b
